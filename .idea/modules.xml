@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Ali/Ali.iml" filepath="$PROJECT_DIR$/Ali/Ali.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraySort/ArraySort.iml" filepath="$PROJECT_DIR$/ArraySort/ArraySort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atoi/Atoi.iml" filepath="$PROJECT_DIR$/Atoi/Atoi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BoLiQiu/BoLiQiu.iml" filepath="$PROJECT_DIR$/BoLiQiu/BoLiQiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" filepath="$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/LongestParlindrome/LongestParlindrome.iml" filepath="$PROJECT_DIR$/LongestParlindrome/LongestParlindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatPath/MatPath.iml" filepath="$PROJECT_DIR$/MatPath/MatPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxArea/MaxArea.iml" filepath="$PROJECT_DIR$/MaxArea/MaxArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxProduct/MaxProduct.iml" filepath="$PROJECT_DIR$/MaxProduct/MaxProduct.iml" />
       <module fileurl="file://$PROJECT_DIR$/Medium/Medium.iml" filepath="$PROJECT_DIR$/Medium/Medium.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeKLists/MergeKLists.iml" filepath="$PROJECT_DIR$/MergeKLists/MergeKLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" filepath="$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" />
@@ -68,6 +70,7 @@
       <module fileurl="file://$PROJECT_DIR$/UglyNumber/UglyNumber.iml" filepath="$PROJECT_DIR$/UglyNumber/UglyNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" filepath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordsConcatenation/WordsConcatenation.iml" filepath="$PROJECT_DIR$/WordsConcatenation/WordsConcatenation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZigZagConversion/ZigZagConversion.iml" filepath="$PROJECT_DIR$/ZigZagConversion/ZigZagConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />

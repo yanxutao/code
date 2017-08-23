@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Add2/Add2.iml" filepath="$PROJECT_DIR$/Add2/Add2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ali/Ali.iml" filepath="$PROJECT_DIR$/Ali/Ali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppleSharing/AppleSharing.iml" filepath="$PROJECT_DIR$/AppleSharing/AppleSharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayConstruction/ArrayConstruction.iml" filepath="$PROJECT_DIR$/ArrayConstruction/ArrayConstruction.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArraySort/ArraySort.iml" filepath="$PROJECT_DIR$/ArraySort/ArraySort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atoi/Atoi.iml" filepath="$PROJECT_DIR$/Atoi/Atoi.iml" />
       <module fileurl="file://$PROJECT_DIR$/BFS/BFS.iml" filepath="$PROJECT_DIR$/BFS/BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BoLiQiu/BoLiQiu.iml" filepath="$PROJECT_DIR$/BoLiQiu/BoLiQiu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Candy/Candy.iml" filepath="$PROJECT_DIR$/Candy/Candy.iml" />
       <module fileurl="file://$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" filepath="$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chuchai/Chuchai.iml" filepath="$PROJECT_DIR$/Chuchai/Chuchai.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContinueSequende/ContinueSequende.iml" filepath="$PROJECT_DIR$/ContinueSequende/ContinueSequende.iml" />
@@ -42,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/Numeric/Numeric.iml" filepath="$PROJECT_DIR$/Numeric/Numeric.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaiLie/PaiLie.iml" filepath="$PROJECT_DIR$/PaiLie/PaiLie.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromePartition/PalindromePartition.iml" filepath="$PROJECT_DIR$/PalindromePartition/PalindromePartition.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintBinaryTree/PrintBinaryTree.iml" filepath="$PROJECT_DIR$/PrintBinaryTree/PrintBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/RE/RE.iml" filepath="$PROJECT_DIR$/RE/RE.iml" />
       <module fileurl="file://$PROJECT_DIR$/RangeSearch/RangeSearch.iml" filepath="$PROJECT_DIR$/RangeSearch/RangeSearch.iml" />

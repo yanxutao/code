@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/CountAndSay/CountAndSay.iml" filepath="$PROJECT_DIR$/CountAndSay/CountAndSay.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encoding/Encoding.iml" filepath="$PROJECT_DIR$/Encoding/Encoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escape/Escape.iml" filepath="$PROJECT_DIR$/Escape/Escape.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindIn2DArray/FindIn2DArray.iml" filepath="$PROJECT_DIR$/FindIn2DArray/FindIn2DArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/FourSubArray/FourSubArray.iml" filepath="$PROJECT_DIR$/FourSubArray/FourSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenerateParenthesis/GenerateParenthesis.iml" filepath="$PROJECT_DIR$/GenerateParenthesis/GenerateParenthesis.iml" />
@@ -46,8 +47,10 @@
       <module fileurl="file://$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" filepath="$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinK/MinK.iml" filepath="$PROJECT_DIR$/MinK/MinK.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinWinSubstr/MinWinSubstr.iml" filepath="$PROJECT_DIR$/MinWinSubstr/MinWinSubstr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NSum/NSum.iml" filepath="$PROJECT_DIR$/NSum/NSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/NextPermutation/NextPermutation.iml" filepath="$PROJECT_DIR$/NextPermutation/NextPermutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/NowCoder/NowCoder.iml" filepath="$PROJECT_DIR$/NowCoder/NowCoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberBaseConversion/NumberBaseConversion.iml" filepath="$PROJECT_DIR$/NumberBaseConversion/NumberBaseConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numeric/Numeric.iml" filepath="$PROJECT_DIR$/Numeric/Numeric.iml" />
       <module fileurl="file://$PROJECT_DIR$/PaiLie/PaiLie.iml" filepath="$PROJECT_DIR$/PaiLie/PaiLie.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" />
@@ -84,6 +87,7 @@
       <module fileurl="file://$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" filepath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordsConcatenation/WordsConcatenation.iml" filepath="$PROJECT_DIR$/WordsConcatenation/WordsConcatenation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeroNum/ZeroNum.iml" filepath="$PROJECT_DIR$/ZeroNum/ZeroNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZigZagConversion/ZigZagConversion.iml" filepath="$PROJECT_DIR$/ZigZagConversion/ZigZagConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
     </modules>

@@ -14,13 +14,17 @@
       <module fileurl="file://$PROJECT_DIR$/Candy/Candy.iml" filepath="$PROJECT_DIR$/Candy/Candy.iml" />
       <module fileurl="file://$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" filepath="$PROJECT_DIR$/CatDogQueue/CatDogQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chuchai/Chuchai.iml" filepath="$PROJECT_DIR$/Chuchai/Chuchai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ColorMix/ColorMix.iml" filepath="$PROJECT_DIR$/ColorMix/ColorMix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumerSelection/ConsumerSelection.iml" filepath="$PROJECT_DIR$/ConsumerSelection/ConsumerSelection.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContinueSequende/ContinueSequende.iml" filepath="$PROJECT_DIR$/ContinueSequende/ContinueSequende.iml" />
       <module fileurl="file://$PROJECT_DIR$/Continuous/Continuous.iml" filepath="$PROJECT_DIR$/Continuous/Continuous.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountAndSay/CountAndSay.iml" filepath="$PROJECT_DIR$/CountAndSay/CountAndSay.iml" />
       <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encoding/Encoding.iml" filepath="$PROJECT_DIR$/Encoding/Encoding.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindIn2DArray/FindIn2DArray.iml" filepath="$PROJECT_DIR$/FindIn2DArray/FindIn2DArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/FourSubArray/FourSubArray.iml" filepath="$PROJECT_DIR$/FourSubArray/FourSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenerateParenthesis/GenerateParenthesis.iml" filepath="$PROJECT_DIR$/GenerateParenthesis/GenerateParenthesis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeoHash/GeoHash.iml" filepath="$PROJECT_DIR$/GeoHash/GeoHash.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
       <module fileurl="file://$PROJECT_DIR$/InsertPosition/InsertPosition.iml" filepath="$PROJECT_DIR$/InsertPosition/InsertPosition.iml" />
@@ -32,9 +36,11 @@
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestParenthes/LongestParenthes.iml" filepath="$PROJECT_DIR$/LongestParenthes/LongestParenthes.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestParlindrome/LongestParlindrome.iml" filepath="$PROJECT_DIR$/LongestParlindrome/LongestParlindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuckyBag/LuckyBag.iml" filepath="$PROJECT_DIR$/LuckyBag/LuckyBag.iml" />
       <module fileurl="file://$PROJECT_DIR$/MatPath/MatPath.iml" filepath="$PROJECT_DIR$/MatPath/MatPath.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxArea/MaxArea.iml" filepath="$PROJECT_DIR$/MaxArea/MaxArea.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxProduct/MaxProduct.iml" filepath="$PROJECT_DIR$/MaxProduct/MaxProduct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSum/MaxSum.iml" filepath="$PROJECT_DIR$/MaxSum/MaxSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Medium/Medium.iml" filepath="$PROJECT_DIR$/Medium/Medium.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeKLists/MergeKLists.iml" filepath="$PROJECT_DIR$/MergeKLists/MergeKLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" filepath="$PROJECT_DIR$/MergeSortedList/MergeSortedList.iml" />
@@ -46,6 +52,8 @@
       <module fileurl="file://$PROJECT_DIR$/PaiLie/PaiLie.iml" filepath="$PROJECT_DIR$/PaiLie/PaiLie.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" filepath="$PROJECT_DIR$/PalindromeNumber/PalindromeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromePartition/PalindromePartition.iml" filepath="$PROJECT_DIR$/PalindromePartition/PalindromePartition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" filepath="$PROJECT_DIR$/PasswordCheck/PasswordCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimePairs/PrimePairs.iml" filepath="$PROJECT_DIR$/PrimePairs/PrimePairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrintBinaryTree/PrintBinaryTree.iml" filepath="$PROJECT_DIR$/PrintBinaryTree/PrintBinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/RE/RE.iml" filepath="$PROJECT_DIR$/RE/RE.iml" />
       <module fileurl="file://$PROJECT_DIR$/RangeSearch/RangeSearch.iml" filepath="$PROJECT_DIR$/RangeSearch/RangeSearch.iml" />
